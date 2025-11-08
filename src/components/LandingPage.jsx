@@ -150,7 +150,7 @@ export default function LandingPage({ onLogin, onSignUp }) {
           <div className="footer-right">
             <div className="footer-links">
               <a href="#features" className="footer-link">[FEATURES]</a>
-              <a href="https://github.com/lmnitzsche/Full-Stack-Reminder-System" className="footer-link">[GITHUB]</a>
+              <a href="https://github.com/lmnitzsche/full-stack-reminder-system" className="footer-link">[GITHUB]</a>
               <a href="https://www.linkedin.com/in/logan-nitzsche/" className="footer-link">[LINKEDIN]</a>
             </div>
           </div>

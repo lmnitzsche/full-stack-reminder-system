@@ -11,7 +11,7 @@ This will automatically deploy your app when you push to the `main` branch.
 
 ## Step 2: Add Secrets to GitHub
 
-1. Go to your GitHub repo: https://github.com/lmnitzsche/Full-Stack-Reminder-System
+1. Go to your GitHub repo: https://github.com/lmnitzsche/full-stack-reminder-system
 2. Click "Settings" → "Secrets and variables" → "Actions"
 3. Click "New repository secret" and add these FOUR secrets:
 
