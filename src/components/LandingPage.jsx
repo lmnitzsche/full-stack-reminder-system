@@ -145,7 +145,7 @@ export default function LandingPage({ onLogin, onSignUp }) {
         <div className="footer-content">
           <div className="footer-left">
             <div className="footer-logo">TERMINAL TASK TRACKER</div>
-            <div className="footer-tagline">Built for developers, by developers</div>
+            <div className="footer-tagline">Command your day. From quick notes to deep-work blocks.</div>
           </div>
           <div className="footer-right">
             <div className="footer-links">
