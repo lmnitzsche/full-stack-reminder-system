@@ -5,8 +5,8 @@ export default function LandingPage({ onLogin, onSignUp }) {
 
   const features = [
     {
-      title: "SMART REMINDERS & SCHEDULING",
-      description: "Set up intelligent reminders with custom intervals, daily, weekly, or personalized scheduling options",
+      title: "SMART REMINDERS",
+      description: "Set up one-time or recurring reminders with custom intervals",
       icon: "⏰"
     },
     {
